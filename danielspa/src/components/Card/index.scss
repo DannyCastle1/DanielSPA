@@ -1,0 +1,41 @@
+
+.card-container{
+    width: 15rem;
+    border-radius: 1rem;
+    border-color: black;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    margin: 0.5rem;
+    height: fit-content;
+}
+.card-image{
+    width: 100%;
+    border-radius: 1rem 1rem 0 0;
+}
+.card-title{
+    margin: 0.5rem 5%;
+    font-size: 20px;
+    color: white;
+}
+.card-btn{
+    text-align: center;
+    width: 100%;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    margin: 0.5rem;
+    
+
+}
+.card-deck {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+  }
+  .card {
+    flex: 1 0 auto;
+  }
+  
