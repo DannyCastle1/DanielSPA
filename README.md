@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Daniel's Portfolio</h3>
@@ -91,8 +91,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
   
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
-* [![CSS]
-* !(./images/css.svg)
+* [![CSS](/images/css.svg)[CSS-url]
 
 
 
@@ -177,3 +176,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
