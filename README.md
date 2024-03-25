@@ -1,13 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 
 
 <!-- PROJECT SHIELDS -->
@@ -85,7 +76,9 @@ It's build with React. The SPA uses React for letter animation with a hover effe
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 
-* [![csslogo][CSS]][CSS-url]
+* [![csslogo][Css]][Css-url]
+
+* [![jslogo][Js]][Js-url]
   
 * [![React][React.js]][React-url]
   
@@ -141,18 +134,6 @@ The SPA uses React Router for routing between different pages. There's also a co
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- CONTACT -->
-## Contact
-
-Daniel - [email](castillodaniel1@yahoo.com)
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -170,10 +151,12 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[CSS]: https://simpleicons.org/?q=css?style=for-the-badge&logo=css&logoColor=white
-[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Css]: https://simpleicons.org/?q=css?style=for-the-badge&logo=css&logoColor=white
+[Css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[Js]: https://img.shields.io/badge/logo=javascript?style=for-the-badge&logo=javascript&logoColor=yellow
+[Js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
