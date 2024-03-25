@@ -111,23 +111,23 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+To install the application you would need to have Terminal (or Command Prompt for Windows), any IDE of your preference, Node, NPM, and a clone of this repository saved locally. Once you have them installed, navigate in the Command Line Interface to where you saved this repository to use the following commands:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+* cd danielspa
+  ```sh
+  cd danielspa
+  ```
+* npm install
+  ```sh
+  npm install
+  ```
+* npm run dev
+  ```sh
+  npm run dev
+  ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
