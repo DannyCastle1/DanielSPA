@@ -91,7 +91,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
   
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
-* [![CSS](!(./images/css.svg)]
+* [![CSS]
+* !(./images/css.svg)
 
 
 
