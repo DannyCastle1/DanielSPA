@@ -170,7 +170,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[CSS]: https://simpleicons.org/?q=css?style=for-the-badge&logo=nextdotjs&logoColor=white
+[CSS]: https://simpleicons.org/?q=css?style=for-the-badge&logo=css&logoColor=white
 [CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
