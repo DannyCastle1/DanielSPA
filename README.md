@@ -82,15 +82,16 @@ This is a Single Page Application that's my portfolio for Phase Two of The Knowl
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Make sure you have Node, NPM, any IDE of your preference, and a clone of this repository saved locally. You can check if you have the latest versions by running these commands:
+
   ```sh
-  npm install npm@latest -g
+  npm -v
+  node -v
   ```
 
 ### Installation
 
-To install the application you would need to have Terminal (or Command Prompt for Windows), any IDE of your preference, Node, NPM, and a clone of this repository saved locally. Once you have them installed, navigate in the Command Line Interface to where you saved this repository to use the following commands:
+ Once you have them installed, navigate in the Command Line Interface to where you saved this repository to use the following commands:
 
 * cd danielspa
   ```sh
@@ -121,12 +122,14 @@ The SPA uses React Router for routing between different pages. There's also a co
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Special thanks to Codecademy.
+
 
 * [Font Awesome](https://fontawesome.com)
 * [Animate.CSS](https://animate.style)
 * [EmailJS](https://www.emailjs.com)
 * [TailwindCSS](https://tailwindcss.com)
+* [Codecademy](https://codecademy.com)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
