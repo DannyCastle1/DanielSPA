@@ -15,11 +15,6 @@ useEffect(() => {
   }, 4000)
 }, [])
 
-const cards = [
-  { title: 'Card 1', imageSrc:{Project1}, link: 'https://github.com/DannyCastle1/MemeGenerator' },
-  { title: 'Card 2', imageSrc: {Project2}, link: 'https://github.com/DannyCastle1/ReactTracker' },
-  // add as many cards as you need
-];
     return(
         <div>
     <div className="container about-page">
