@@ -59,8 +59,7 @@ It's build with React. The SPA uses React for letter animation with a hover effe
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
+This project was built with the following major libraries:
 
 * [![Css][Css]][Css-url]
 
