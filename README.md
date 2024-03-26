@@ -139,7 +139,7 @@ Special thanks to Codecademy.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[Css]: https://img.shields.io/badge/logo-css-blue?logo=css
+[Css]: https://img.shields.io/badge/logo-css3-blue?logo=css3
 [Css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
