@@ -78,11 +78,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Getting Started
 
-This is a Single Page Application that's my portfolio for Phase Two of The Knowledge House Web Development Cohort. 
+Make sure you have Node, NPM, any IDE of your preference, and a clone of this repository saved locally. 
 
 ### Prerequisites
 
-Make sure you have Node, NPM, any IDE of your preference, and a clone of this repository saved locally. You can check if you have the latest versions by running these commands:
+You can check if you have the latest versions by running these commands:
 
   ```sh
   npm -v
@@ -91,7 +91,7 @@ Make sure you have Node, NPM, any IDE of your preference, and a clone of this re
 
 ### Installation
 
- Once you have them installed, navigate in the Command Line Interface to where you saved this repository to use the following commands:
+ Once you're ready to go, navigate in the Command Line Interface to where you saved this repository to use the following commands:
 
 * cd danielspa
   ```sh
@@ -116,6 +116,7 @@ Make sure you have Node, NPM, any IDE of your preference, and a clone of this re
 
 The SPA uses React Router for routing between different pages. There's also a contact page. It uses EmailJS to essentially process my backend code. When submitting the contact form on the SPA, it sends the message to my personal e-mail.
 
+![Demo](https://daniel-spa2.vercel.app)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
