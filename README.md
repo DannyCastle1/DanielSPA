@@ -53,7 +53,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -84,7 +83,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
   
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
-* [![CSS](/images/css3.svg)[CSS-url]
 
 
 
@@ -157,6 +155,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[Js]: https://img.shields.io/badge/logo=javascript?style=for-the-badge&logo=javascript&logoColor=yellow
+[Js]: https://img.shields.io/badge/logo-javascript?style=for-the-badge&logo=javascript&logoColor=yellow
 [Js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
