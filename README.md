@@ -12,24 +12,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+ 
+   <img src="images/logo.png" alt="Logo" width="80" height="80"/>
 
   <h3 align="center">Daniel's Portfolio</h3>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
 </div>
 
 
@@ -74,9 +61,9 @@ It's build with React. The SPA uses React for letter animation with a hover effe
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 
-* [![csslogo][Css]][Css-url]
+* [![Css][Css]][Css-url]
 
-* [![jslogo][Js]][Js-url]
+* [![Javascript][Js]][Js-url]
   
 * [![React][React.js]][React-url]
   
