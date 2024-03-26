@@ -116,7 +116,7 @@ You can check if you have the latest versions by running these commands:
 
 The SPA uses React Router for routing between different pages. There's also a contact page. It uses EmailJS to essentially process my backend code. When submitting the contact form on the SPA, it sends the message to my personal e-mail.
 
-![Demo](https://daniel-spa2.vercel.app)
+<a href='https://daniel-spa2.vercel.app'>Live Demo</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
