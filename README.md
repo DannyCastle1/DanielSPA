@@ -13,7 +13,7 @@
 <br />
 
 <div align='center'>
-  ![logo](/images/logo.png)
+  ![logo](./images/logo.png)
 
   <h3 align="center">Daniel's Portfolio</h3>
 
