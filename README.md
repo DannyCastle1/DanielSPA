@@ -13,14 +13,8 @@
 <br />
 
 <div align='center'>
-  <img src='./images/logo.png' alt='logo' width='80' height='80'/>
-
   <h3 align="center">Daniel's Portfolio</h3>
-
  </div>
-
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
